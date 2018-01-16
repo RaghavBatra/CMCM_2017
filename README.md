@@ -3,7 +3,7 @@ This manuscript was our submission to the CMCM 2017 competition, a Cornell wide 
 The final manuscript is under the title _CMCM Manuscript - Optimum Allocation of TCAT Hybrid Buses to Maximize Fuel Efficiency_.
 Other files are supplementary.
 <p align="center">
-<img src="https://github.com/RaghavBatra/CMCM_2017/blob/master/map_routes.png" width="500" height="750">
+<img src="https://github.com/RaghavBatra/CMCM_2017/blob/master/map_routes_terrain.png" width="750" height="500">
 </p>
 
 ## More information on the below is contained in the manuscript
