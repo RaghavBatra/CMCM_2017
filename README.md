@@ -1,7 +1,9 @@
 # Cornell Modelling Competition in Mathematics (CMCM) 2017
 This manuscript was our submission to the CMCM 2017 competition, a Cornell wide competition to solve an open ended problem in the real world using modelling techniques.
 The final manuscript is under the title _CMCM Manuscript - Optimum Allocation of TCAT Hybrid Buses to Maximize Fuel Efficiency_.
-Other files are supplementary
+Other files are supplementary.
+
+![Terrain Map](https://github.com/RaghavBatra/CMCM_2017/blob/master/map_routes.png)
 
 ## More information on the below is contained in the manuscript
 * *route_10_0* and *route_10_5* are folders that contain graphs of battery consumption, fuel consumption and electric consumption
