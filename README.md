@@ -3,7 +3,7 @@ This manuscript was our submission to the CMCM 2017 competition, a Cornell wide 
 The final manuscript is under the title _CMCM Manuscript - Optimum Allocation of TCAT Hybrid Buses to Maximize Fuel Efficiency_.
 Other files are supplementary.
 
-![Terrain Map](https://github.com/RaghavBatra/CMCM_2017/blob/master/map_routes.png)
+<img src="https://github.com/RaghavBatra/CMCM_2017/blob/master/map_routes.png" width="48" height="48">
 
 ## More information on the below is contained in the manuscript
 * *route_10_0* and *route_10_5* are folders that contain graphs of battery consumption, fuel consumption and electric consumption
