@@ -1,5 +1,22 @@
 # Cornell Modelling Competition in Mathematics (CMCM) 2017
 This manuscript was our submission to the CMCM 2017 competition, a Cornell wide competition to solve an open ended problem in the real world using modelling techniques.
+
+## Abstract
+
+In this manuscript, we present a model that simulates the diesel fuel usage of hybrid and
+diesel buses on certain TCAT bus routes in Ithaca. Our model makes use of elevation data
+to calculate the physical power exerted by the engine at a series of discrete points along the
+route. When modeling the hybrid bus, we take into consideration the proper conditions for
+battery power to be used, and use this information to determine the total energy consumed by
+hybrid and diesel buses along each route. We then solve the allocation problem using linear
+programming to find the optimal distribution of hybrid buses in order to maximize fuel savings
+and maintain the current number of buses along each route. We determined that the optimal
+allocation is two hybrid buses on route 10, two buses on route 11, one bus on route 15, one
+bus on route 17, and two buses on route 81. TCAT can save $28,630 when compared to an
+allocation of no hybrid buses to these routes and can save $12,411 when compared to the least
+optimal allocation of hybrid buses. Finally, we discuss further extensions and improvements
+to our model to improve its accuracy.
+
 The final manuscript is under the title _CMCM Manuscript - Optimum Allocation of TCAT Hybrid Buses to Maximize Fuel Efficiency_.
 Other files are supplementary.
 <p align="center">
